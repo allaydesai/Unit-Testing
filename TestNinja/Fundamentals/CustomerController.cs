@@ -12,7 +12,7 @@
     }
     
     public class ActionResult { }
-    
+    // Derived from ActionResult()
     public class NotFound : ActionResult { }
  
     public class Ok : ActionResult { }
